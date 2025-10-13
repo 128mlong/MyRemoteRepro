@@ -1,2 +1,3 @@
 pierwszy aktor
 drugi aktor
+trzeci aktor
