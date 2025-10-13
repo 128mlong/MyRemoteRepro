@@ -1,3 +1,4 @@
 pierwszy aktor
 drugi aktor
 trzeci aktor
+czwarty aktor
